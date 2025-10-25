@@ -35,3 +35,4 @@ fi
 
 echo "Deployment completed successfully!"
 
+Minor fix in deploy script

@@ -12,11 +12,11 @@ logging:
   level: INFO
   format: json
   
+# Development configuration (enabled via environment variable)
 development:
   enabled: false
   port: 3000
   hot_reload: false
   debug_mode: false
-  mock_apis:  false  
-  
-  
+  mock_apis: false
+
